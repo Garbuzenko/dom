@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "2. DOM"
 
-**CI** [![Build status](https://ci.appveyor.com/api/projects/status/xkidh2i33sqcurdk?svg=true)](https://ci.appveyor.com/project/garbuzenko/dom)    [GitHub Pages](https://garrbuzenko.github.io/dom/)
+**CI** [![Build status](https://ci.appveyor.com/api/projects/status/g490t6oy3skbw05o?svg=true)](https://ci.appveyor.com/project/garbuzenko/dom)    [GitHub Pages](https://garrbuzenko.github.io/dom/)
 
 
 Правила сдачи задания:
